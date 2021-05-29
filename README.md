@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @MishDotCom
-- 👀 I’m interested in Unity Game dev and C#
+- 👀 I’m interested in Unity Game dev and C# networking
 - 🌱 I’m currently mastering unity
-- 💞️ I’m looking to collaborate on nothing really
-- 📫 How to reach me ...
+- 📫 How to reach me mishdotcomdev@gmail.com
 
 <!---
 MishDotCom/MishDotCom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
