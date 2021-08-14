@@ -1,3 +1,6 @@
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=MishDotCom&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MishDotCom&langs_count=5&theme=tokyonight)]()
 <h1>About me:</h1>
 <ul>
  <li>I am a 14 years old fullstack dev from Romania.</li>
