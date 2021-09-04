@@ -10,6 +10,11 @@
 <strong><li>How to reach me?</li></strong>
 You can reach me for anything at `mishdotcomdev@gmail.com`.
 
+<strong><li>Currently working on:</li></strong>
+1) RSSH - Revolutionary SSH firmware.
+2) Fun adventure/exploration game in unity.
+3) Developing tools for MDC-WebSploit.
+
 ## Portfolio
 <li>MDC-Websploit - Complete set of tools for web level pen-testing. https://github.com/MishDotCom/MDC-WebSploit</li>
 <li>Geo Dungeon - Fun android/ios game made in unity.</li>
