@@ -8,7 +8,6 @@ Hello! I am a 15 y/o fullstack developer based in Romania. I am axed on the .NET
 For questions or anything related to programming in general, feel free to contact me at `mishdotcomdev@gmail.com`.
 Open for small paid projects to work on fully remotely. 
 ## ⇨ Portfolio 📁
-* **HashUp** - Secure one-way hashing algorithm. https://github.com/MishDotCom/Hashup-Hashing-Algorithm
 * **Quick** - Secure room-based instant messaging software. https://www.microsoft.com/store/productId/9P9954B15RG4
 * **MDC-WebSploit** - Complete toolset for web-level pentestig. https://github.com/MishDotCom/MDC-WebSploit
 * **Geo Dungeon** - Fun android/ios game made in unity2d.
